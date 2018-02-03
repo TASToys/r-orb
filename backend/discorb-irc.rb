@@ -14,7 +14,7 @@ system( 'makefifo botpipe' )
 outpipe = open("botpipe", "w+")
 $is_running = nil
 
-client =  Twitch::Client.new client_id: "pcaalhorck7ryamyg6ijd5rtnls5pjl"
+client =  Twitch::Client.new client_id: 
 
 bot = Discordrb::Commands::CommandBot.new token: configatron.token, prefix: '>', should_parse_self: 'on'
 
