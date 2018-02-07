@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="fallenfocus.net:904">
+    <serverData>
+      <paths name="fallenfocus.net:904">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/mediamagnet/r-orb" local="$PROJECT_DIR$" web="/r-orb" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

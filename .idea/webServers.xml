@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5c27fecf-b142-49f3-b733-87d60670bba3" name="fallenfocus.net:904" url="http://fallenfocus.net">
+        <fileTransfer host="fallenfocus.net" port="904" privateKey="C:\Users\natha\Documents\fallenfocuskey" rootFolder="/home/mediamanget/r-orb" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="904" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -50,13 +50,6 @@ bot.command(:streamed) do |event|
 end
 
 
-=begin
-if tchannel.streaming? == true
-	bot.message(in: configatron.channel) do |event|
-		event << "Hey @everyone " + "#{tchannel.display_name}" + "Just went live! Watch them at " + "#{stream.url}"
-	end
-end
-=end
 
 bot.run :async
 
