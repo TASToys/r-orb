@@ -1,7 +1,7 @@
 class StaticController < ApplicationController
-  def index
+  def home
   end
 
-  def nowplaying
+  def help
   end
 end
