@@ -1,9 +1,9 @@
 Rails.application.routes.draw do
-  get 'static/home'
+  root 'static#home'
 
-  get 'static/help'
+  get '/help' to: 'static/help'
 
-  get 'nowplaying/index'
+  get '/nowplaying' to: 'nowplaying/index'
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
