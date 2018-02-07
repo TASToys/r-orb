@@ -12,6 +12,13 @@ gem 'turbolinks'
 gem 'jbuilder'
 gem 'twitch-api'
 gem 'discordrb'
+gem 'yt'
+
+#auth shit
+
+gem 'devise'
+gem 'rails_admin'
+
 
 group :development, :test do
   gem 'sqlite3'
